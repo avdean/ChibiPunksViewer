@@ -1,0 +1,81 @@
+{
+  "dna": "bd05ece901c17267d84a37710aba38f3dc0d20b48d17b6636ee62db497099cbf",
+  "name": "ChibiPunks #49",
+  "description": "ChibiPunks is a collection of adorable PFP punk ERC721A NFTs minted in mid 2022 on the Ethereum network each NFT acts a badge of support for those both different or misunderstood. A large portion of this collection will go to a charity for mental illness.",
+  "image": "ipfs://bafybeidz5ctud4rcwn4gc67bomnak7ywqlp6ik7joak2g5vvt5a7suakwe/49.png",
+  "edition": 49,
+  "date": 1666960491415,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "FrogwellsPink"
+    },
+    {
+      "trait_type": "Background Accents",
+      "value": "BackgroundAccentSpiral"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Green Female"
+    },
+    {
+      "trait_type": "Underwear",
+      "value": "Female Underwear Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Purple Female Vest"
+    },
+    {
+      "trait_type": "Coat",
+      "value": "Female Open Black Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mild Happy Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Female Blue Long Messy Hair"
+    },
+    {
+      "trait_type": "Pet / Sticker",
+      "value": "Tiny Unicorn Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Strength",
+      "value": 8
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Constitution",
+      "value": 18
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Dexterity",
+      "value": 11
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Intelligence",
+      "value": 13
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": 19
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Charisma",
+      "value": 17
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

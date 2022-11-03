@@ -1,0 +1,73 @@
+{
+  "dna": "48587513d5e8b3290751d4339df59c30f7feaddd536c96f3665c3624c42133e1",
+  "name": "ChibiPunks #764",
+  "description": "ChibiPunks is a collection of adorable PFP punk ERC721A NFTs minted in mid 2022 on the Ethereum network each NFT acts a badge of support for those both different or misunderstood. A large portion of this collection will go to a charity for mental illness.",
+  "image": "ipfs://bafybeidz5ctud4rcwn4gc67bomnak7ywqlp6ik7joak2g5vvt5a7suakwe/764.png",
+  "edition": 764,
+  "date": 1666960074336,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Background_Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Dusky Female"
+    },
+    {
+      "trait_type": "Underwear",
+      "value": "Female Underwear Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Female Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chibi Female Eyes Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hairy Pink Blue Mohawk Hair"
+    },
+    {
+      "trait_type": "Pet / Sticker",
+      "value": "Pet Blue dog"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drool"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Strength",
+      "value": 15
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Constitution",
+      "value": 17
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Dexterity",
+      "value": 12
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Intelligence",
+      "value": 9
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": 0
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Charisma",
+      "value": 12
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

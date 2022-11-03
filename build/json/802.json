@@ -1,0 +1,77 @@
+{
+  "dna": "ecf0f000139572e35fe595a99f8d51c1ff127fdeed4bc62b7749957213f07fb8",
+  "name": "ChibiPunks #802",
+  "description": "ChibiPunks is a collection of adorable PFP punk ERC721A NFTs minted in mid 2022 on the Ethereum network each NFT acts a badge of support for those both different or misunderstood. A large portion of this collection will go to a charity for mental illness.",
+  "image": "ipfs://bafybeidz5ctud4rcwn4gc67bomnak7ywqlp6ik7joak2g5vvt5a7suakwe/802.png",
+  "edition": 802,
+  "date": 1666960526088,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Background_YellowOrange"
+    },
+    {
+      "trait_type": "Background Accents",
+      "value": "BackgroundAccentSpiral"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Blue Female"
+    },
+    {
+      "trait_type": "Underwear",
+      "value": "Female Underwear Mint"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Female Black T Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chibi Female Eyes Dark Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Female Blue Green Two Tone Hair"
+    },
+    {
+      "trait_type": "Pet / Sticker",
+      "value": "Frogwell Sticker - Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scream"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Strength",
+      "value": 0
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Constitution",
+      "value": 14
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Dexterity",
+      "value": 10
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Intelligence",
+      "value": 8
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Wisdom",
+      "value": 14
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Charisma",
+      "value": 7
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
