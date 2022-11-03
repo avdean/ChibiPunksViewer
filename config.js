@@ -2,7 +2,7 @@
 //                             |
 //                             |
 //                             v
-const buildPath = "../Art Engine/build";
+const buildPath = "/build";
 
 /** TO UPLOAD TO A LIVE SERVER, SET EMBED PATH TO TRUE */
 const hosted = false;

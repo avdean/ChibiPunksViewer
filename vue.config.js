@@ -13,7 +13,7 @@ module.exports = {
     //TODO: make paths dynamic
     config.resolve.alias.set(
       "#BUILD",
-      path.resolve(__dirname, "../Art Engine/build")
+      path.resolve(__dirname, "/build")
     );
   },
 };
