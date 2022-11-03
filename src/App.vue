@@ -20,7 +20,7 @@ import GalleryComponent from "@/components/GalleryComponent.vue";
 //                             |
 //                             |
 //                             v
-import metadata from "../../Art Engine/build/json/_metadata.json";
+import metadata from "/build/json/_metadata.json";
 import { computed } from "@vue/runtime-core";
 import DarkmodeToggle from "./components/DarkmodeToggle.vue";
 
