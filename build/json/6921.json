@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_LimeYellow"
+      "value": "LimeYellow"
     },
     {
       "trait_type": "Body",
-      "value": "Body White Male"
+      "value": "Body White "
     },
     {
       "trait_type": "Clothes",
@@ -43,7 +43,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
@@ -53,7 +53,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",

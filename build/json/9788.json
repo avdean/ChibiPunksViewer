@@ -8,27 +8,27 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_LimeYellow"
+      "value": "LimeYellow"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Pink"
+      "value": "Underwear Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Yellow T Shirt"
+      "value": "Yellow T Shirt"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Purple"
+      "value": "Chibi Eyes Purple"
     },
     {
       "trait_type": "Hair",
-      "value": "Female Short Brown Hair"
+      "value": "Short Brown Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",

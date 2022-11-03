@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentBinary"
+      "value": "Binary"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Female"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap White"
+      "value": "Underwear Wrap White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Green Female Tank Top"
+      "value": "Green Tank Top"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Blue Two Tone Hair"
+      "value": "Blue Two Tone Hair"
     },
     {
       "trait_type": "Mouth",
@@ -41,12 +41,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
@@ -56,17 +56,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 15
+      "value": 75
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

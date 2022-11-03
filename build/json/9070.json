@@ -8,27 +8,27 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Body Green Female"
+      "value": "Body Green "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Pink"
+      "value": "Underwear Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Black Female Vest"
+      "value": "Black Vest"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Purple"
+      "value": "Chibi Eyes Purple"
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Bright Pink Long Hair"
+      "value": "Messy Bright Pink Long Hair"
     },
     {
       "trait_type": "Mouth",
@@ -37,27 +37,27 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",

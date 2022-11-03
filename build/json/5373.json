@@ -8,19 +8,19 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_DarkBlue"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Body",
-      "value": "Body White Female"
+      "value": "Body White "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap White"
+      "value": "Underwear Wrap White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Black Female Tank Top"
+      "value": "Black Tank Top"
     },
     {
       "trait_type": "Eyes",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Short Green Hair"
+      "value": "Short Green Hair"
     },
     {
       "trait_type": "Pet / Sticker",

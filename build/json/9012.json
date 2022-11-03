@@ -8,35 +8,35 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_LimeYellow"
+      "value": "LimeYellow"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentBinary"
+      "value": "Binary"
     },
     {
       "trait_type": "Body",
-      "value": "Body Grey Female"
+      "value": "Body Grey "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Pink"
+      "value": "Underwear Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Pink Shirt"
+      "value": "Pink Shirt"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open Blue Jacket"
+      "value": "Open Blue Jacket"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Orange"
+      "value": "Chibi Eyes Orange"
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Orange Long Hair"
+      "value": "Messy Orange Long Hair"
     },
     {
       "trait_type": "Mouth",
@@ -50,17 +50,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",

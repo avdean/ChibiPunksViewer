@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Male"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Clothes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Male Eyes Pink"
+      "value": "Chibi  Eyes Pink"
     },
     {
       "trait_type": "Hair",
@@ -52,7 +52,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
@@ -62,7 +62,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 17
+      "value": 77
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

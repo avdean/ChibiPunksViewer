@@ -8,27 +8,27 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_LimeYellow"
+      "value": "LimeYellow"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Blue"
+      "value": "Underwear Blue"
     },
     {
       "trait_type": "Clothes",
-      "value": "Blue Female Tank Top"
+      "value": "Blue Tank Top"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Orange"
+      "value": "Chibi Eyes Orange"
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Orange Long Hair"
+      "value": "Messy Orange Long Hair"
     },
     {
       "trait_type": "Mouth",
@@ -37,7 +37,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
@@ -47,7 +47,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",
@@ -57,12 +57,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 17
+      "value": 77
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_LimeYellow"
+      "value": "LimeYellow"
     },
     {
       "trait_type": "Background Accents",
-      "value": "FrogwellsSwirls"
+      "value": "Frogwells Swirls"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Female"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Pink"
+      "value": "Underwear Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Yellow Female Tank Top"
+      "value": "Yellow Tank Top"
     },
     {
       "trait_type": "Eyes",
@@ -41,17 +41,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",

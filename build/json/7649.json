@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_YellowOrange"
+      "value": "YellowOrange"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Female"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Pink"
+      "value": "Underwear Wrap Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Red Jacket Closed"
+      "value": "Red Jacket Closed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Puppy Female Eyes"
+      "value": "Puppy Eyes"
     },
     {
       "trait_type": "Hair",
@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
@@ -56,12 +56,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",

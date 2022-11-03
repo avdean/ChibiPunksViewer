@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsPolaroid"
+      "value": "Frogwells Polaroid"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Yellow"
+      "value": "Underwear Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Black T Shirt"
+      "value": "Black T Shirt"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Dark Blue"
+      "value": "Chibi Eyes Dark Blue"
     },
     {
       "trait_type": "Hair",
@@ -37,7 +37,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -47,7 +47,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
@@ -62,7 +62,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 13
+      "value": 73
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_LimeYellow"
+      "value": "LimeYellow"
     },
     {
       "trait_type": "Body",
-      "value": "Body Black Female"
+      "value": "Body Black "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear White"
+      "value": "Underwear White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Black Female Vest"
+      "value": "Black Vest"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Dark Blue"
+      "value": "Chibi Eyes Dark Blue"
     },
     {
       "trait_type": "Hair",
@@ -41,32 +41,32 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 16
+      "value": 76
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_PinkBlue"
+      "value": "PinkBlue"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentHearts"
+      "value": "Hearts"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Female"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Green"
+      "value": "Underwear Wrap Green"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Blue Shirt"
+      "value": "Blue Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Green Long Messy Hair"
+      "value": "Green Long Messy Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -45,17 +45,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -70,7 +70,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 12
+      "value": 72
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

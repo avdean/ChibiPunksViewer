@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_LimeYellow"
+      "value": "LimeYellow"
     },
     {
       "trait_type": "Body",
-      "value": "Body Purple Male"
+      "value": "Body Purple "
     },
     {
       "trait_type": "Clothes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Male Eyes Light Blue"
+      "value": "Chibi  Eyes Light Blue"
     },
     {
       "trait_type": "Hair",
@@ -47,7 +47,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -57,12 +57,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 1
+      "value": 7
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsRibbons"
+      "value": "Frogwells Ribbons"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentDoodle"
+      "value": "Doodle"
     },
     {
       "trait_type": "Body",
-      "value": "Body White Female"
+      "value": "Body White "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Yellow"
+      "value": "Underwear Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Purple T Shirt"
+      "value": "Purple T Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Blue Long Hair"
+      "value": "Messy Blue Long Hair"
     },
     {
       "trait_type": "Mouth",
@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
@@ -51,17 +51,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",

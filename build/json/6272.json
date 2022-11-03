@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Blue"
+      "value": "Blue"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSCircles"
+      "value": "Circles"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Female"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Red"
+      "value": "Underwear Wrap Red"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Blue Jumper"
+      "value": "Blue Jumper"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Green Female Mohawk Hair"
+      "value": "Green Mohawk Hair"
     },
     {
       "trait_type": "Mouth",
@@ -41,27 +41,27 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",

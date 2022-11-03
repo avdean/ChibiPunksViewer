@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSCircles"
+      "value": "Circles"
     },
     {
       "trait_type": "Body",
-      "value": "Body White Female"
+      "value": "Body White "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap White"
+      "value": "Underwear Wrap White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Yellow Female Vest"
+      "value": "Yellow Vest"
     },
     {
       "trait_type": "Eyes",
@@ -60,17 +60,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 19
+      "value": 79
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

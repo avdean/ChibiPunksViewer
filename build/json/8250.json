@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_DarkBlue"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Male"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Clothes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Male Eyes Dark Blue"
+      "value": "Chibi  Eyes Dark Blue"
     },
     {
       "trait_type": "Hair",
@@ -38,17 +38,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",

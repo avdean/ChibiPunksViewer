@@ -8,15 +8,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_PinkBlue"
+      "value": "PinkBlue"
     },
     {
       "trait_type": "Background Accent",
-      "value": "BackgroundAccentSCircles"
+      "value": "Circles"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Male"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Clothes",
@@ -42,17 +42,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",

@@ -8,15 +8,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "FrogwellsPink"
+      "value": "Frogwells Pink"
     },
     {
       "trait_type": "Background Accent",
-      "value": "BackgroundAccentBinary"
+      "value": "Binary"
     },
     {
       "trait_type": "Body",
-      "value": "Body Dusky Male"
+      "value": "Body Dusky "
     },
     {
       "trait_type": "Clothes",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Male Eyes Purple"
+      "value": "Chibi  Eyes Purple"
     },
     {
       "trait_type": "Hair",
@@ -55,22 +55,22 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 16
+      "value": 76
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

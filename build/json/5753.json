@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_BlueGreen"
+      "value": "BlueGreen"
     },
     {
       "trait_type": "Body",
-      "value": "Body Grey Male"
+      "value": "Body Grey "
     },
     {
       "trait_type": "Clothes",
@@ -33,17 +33,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",
@@ -53,7 +53,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",

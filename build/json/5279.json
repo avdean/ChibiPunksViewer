@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_BlueGreen"
+      "value": "BlueGreen"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Male"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Clothes",
@@ -42,27 +42,27 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 14
+      "value": 74
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

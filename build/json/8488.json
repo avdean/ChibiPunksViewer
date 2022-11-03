@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Pink"
+      "value": "Underwear Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Purple T Shirt"
+      "value": "Purple T Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -42,17 +42,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",

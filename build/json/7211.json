@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Body Purple Female"
+      "value": "Body Purple "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Blue"
+      "value": "Underwear Blue"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Red Jumper"
+      "value": "Red Jumper"
     },
     {
       "trait_type": "Eyes",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Red Long Hair"
+      "value": "Messy Red Long Hair"
     },
     {
       "trait_type": "Mouth",
@@ -37,17 +37,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
@@ -57,12 +57,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 1
+      "value": 7
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

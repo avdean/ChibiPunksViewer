@@ -8,15 +8,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Background Accent",
-      "value": "BackgroundAccentCode"
+      "value": "Code"
     },
     {
       "trait_type": "Body",
-      "value": "Body Black Male"
+      "value": "Body Black "
     },
     {
       "trait_type": "Clothes",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Male Eyes Pink"
+      "value": "Chibi  Eyes Pink"
     },
     {
       "trait_type": "Hair",
@@ -46,22 +46,22 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",

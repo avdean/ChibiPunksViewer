@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_DarkBlue"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Background Accents",
-      "value": "FrogwellsSwirls"
+      "value": "Frogwells Swirls"
     },
     {
       "trait_type": "Body",
-      "value": "Body Purple Female"
+      "value": "Body Purple "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Yellow"
+      "value": "Underwear Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Red Jumper"
+      "value": "Red Jumper"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Bright Pink Long Hair"
+      "value": "Messy Bright Pink Long Hair"
     },
     {
       "trait_type": "Mouth",
@@ -41,22 +41,22 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
@@ -66,7 +66,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 0
+      "value": 7
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

@@ -8,15 +8,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_Yellow"
+      "value": "Yellow"
     },
     {
       "trait_type": "Background Accent",
-      "value": "BackgroundAccentCode"
+      "value": "Code"
     },
     {
       "trait_type": "Body",
-      "value": "Body Purple Male"
+      "value": "Body Purple "
     },
     {
       "trait_type": "Clothes",
@@ -51,12 +51,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",

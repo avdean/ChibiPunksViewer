@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_BrightGreen"
+      "value": "BrightGreen"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSCircles"
+      "value": "Circles"
     },
     {
       "trait_type": "Body",
-      "value": "Body Black Female"
+      "value": "Body Black "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Yellow"
+      "value": "Underwear Wrap Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Black T Shirt"
+      "value": "Black T Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Green Long Hair"
+      "value": "Messy Green Long Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -45,12 +45,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
@@ -70,7 +70,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 15
+      "value": 75
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

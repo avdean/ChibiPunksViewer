@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Red"
+      "value": "Red"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSCircles"
+      "value": "Circles"
     },
     {
       "trait_type": "Body",
-      "value": "Body Grey Female"
+      "value": "Body Grey "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap White"
+      "value": "Underwear Wrap White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Red Jacket Closed"
+      "value": "Red Jacket Closed"
     },
     {
       "trait_type": "Eyes",
@@ -46,7 +46,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
@@ -66,7 +66,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 18
+      "value": 78
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

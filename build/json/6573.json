@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSCircles"
+      "value": "Circles"
     },
     {
       "trait_type": "Body",
-      "value": "Body White Female"
+      "value": "Body White "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap White"
+      "value": "Underwear Wrap White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Purple T Shirt"
+      "value": "Purple T Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Orange Long Hair"
+      "value": "Messy Orange Long Hair"
     },
     {
       "trait_type": "Mouth",
@@ -46,12 +46,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -61,7 +61,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",

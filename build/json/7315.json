@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_YellowOrange"
+      "value": "YellowOrange"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentCode"
+      "value": "Code"
     },
     {
       "trait_type": "Body",
-      "value": "Body Green Female"
+      "value": "Body Green "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Pink"
+      "value": "Underwear Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Black Female Vest"
+      "value": "Black Vest"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Green Female Mohawk Hair"
+      "value": "Green Mohawk Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -45,7 +45,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
@@ -60,7 +60,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",

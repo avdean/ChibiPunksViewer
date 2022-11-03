@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsRibbons"
+      "value": "Frogwells Ribbons"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Female"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Pink"
+      "value": "Underwear Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female White Shirt"
+      "value": "White Shirt"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open Yellow Jacket"
+      "value": "Open Yellow Jacket"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Blue Long Messy Hair"
+      "value": "Blue Long Messy Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -55,7 +55,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
@@ -70,7 +70,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 19
+      "value": 79
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

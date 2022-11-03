@@ -8,27 +8,27 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSpiral"
+      "value": "Spiral"
     },
     {
       "trait_type": "Body",
-      "value": "Body Dusky Female"
+      "value": "Body Dusky "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear White"
+      "value": "Underwear White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Red Jacket Closed"
+      "value": "Red Jacket Closed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Light Blue"
+      "value": "Chibi Eyes Light Blue"
     },
     {
       "trait_type": "Hair",
@@ -55,7 +55,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",

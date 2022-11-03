@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsRibbons"
+      "value": "Frogwells Ribbons"
     },
     {
       "trait_type": "Body",
-      "value": "Body White Female"
+      "value": "Body White "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Pink"
+      "value": "Underwear Wrap Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Black Jumper"
+      "value": "Black Jumper"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Brown"
+      "value": "Chibi Eyes Brown"
     },
     {
       "trait_type": "Hair",
@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
@@ -51,22 +51,22 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 16
+      "value": 76
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

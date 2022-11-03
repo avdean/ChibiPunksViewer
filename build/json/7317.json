@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_RedPink"
+      "value": "RedPink"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentCode"
+      "value": "Code"
     },
     {
       "trait_type": "Body",
-      "value": "Body Yellow Female"
+      "value": "Body Yellow "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap White"
+      "value": "Underwear Wrap White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Frogwell Hoodie Blue"
+      "value": "Frogwell Hoodie Blue"
     },
     {
       "trait_type": "Eyes",
@@ -45,17 +45,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -65,12 +65,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 17
+      "value": 77
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

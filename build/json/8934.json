@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_YellowOrange"
+      "value": "YellowOrange"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSCircles"
+      "value": "Circles"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Blue"
+      "value": "Underwear Blue"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Green T Shirt"
+      "value": "Green T Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Bright Pink Long Hair"
+      "value": "Messy Bright Pink Long Hair"
     },
     {
       "trait_type": "Mouth",
@@ -46,12 +46,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
@@ -61,7 +61,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",

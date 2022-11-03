@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_PinkBlue"
+      "value": "PinkBlue"
     },
     {
       "trait_type": "Body",
-      "value": "Body Grey Female"
+      "value": "Body Grey "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Blue"
+      "value": "Underwear Wrap Blue"
     },
     {
       "trait_type": "Clothes",
-      "value": "White Female Tank Top"
+      "value": "White Tank Top"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open White Jacket"
+      "value": "Open White Jacket"
     },
     {
       "trait_type": "Eyes",
@@ -56,12 +56,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",

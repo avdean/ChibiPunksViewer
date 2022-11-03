@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_RedPink"
+      "value": "RedPink"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear White"
+      "value": "Underwear White"
     },
     {
       "trait_type": "Clothes",
-      "value": "White Female Tank Top"
+      "value": "White Tank Top"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Brown"
+      "value": "Chibi Eyes Brown"
     },
     {
       "trait_type": "Hair",
@@ -37,12 +37,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
@@ -52,12 +52,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",

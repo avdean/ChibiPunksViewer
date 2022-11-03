@@ -12,23 +12,23 @@
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSCircles"
+      "value": "Circles"
     },
     {
       "trait_type": "Body",
-      "value": "Body Grey Female"
+      "value": "Body Grey "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Blue"
+      "value": "Underwear Wrap Blue"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Purple Shirt"
+      "value": "Purple Shirt"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open White Jacket"
+      "value": "Open White Jacket"
     },
     {
       "trait_type": "Eyes",
@@ -36,7 +36,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Blue Yellow Two Tone Hair"
+      "value": "Blue Yellow Two Tone Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -49,7 +49,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
@@ -59,17 +59,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",

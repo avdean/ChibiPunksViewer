@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_DarkBlue"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentHolo"
+      "value": "Holo"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Female"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Mint"
+      "value": "Underwear Mint"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Green Jumper"
+      "value": "Green Jumper"
     },
     {
       "trait_type": "Eyes",
@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
@@ -51,17 +51,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",

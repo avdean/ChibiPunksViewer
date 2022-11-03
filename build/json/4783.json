@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsPurpleFade"
+      "value": "Frogwells Purple Fade"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentDoodle"
+      "value": "Doodle"
     },
     {
       "trait_type": "Body",
-      "value": "Body Grey Female"
+      "value": "Body Grey "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Blue"
+      "value": "Underwear Blue"
     },
     {
       "trait_type": "Clothes",
-      "value": "Black Female Vest"
+      "value": "Black Vest"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Pink Long Hair"
+      "value": "Messy Pink Long Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -65,12 +65,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 10
+      "value": 70
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

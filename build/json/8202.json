@@ -8,31 +8,31 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Blue"
+      "value": "Blue"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentCode"
+      "value": "Code"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Yellow"
+      "value": "Underwear Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Purple Female Vest"
+      "value": "Purple Vest"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Orange"
+      "value": "Chibi Eyes Orange"
     },
     {
       "trait_type": "Hair",
-      "value": "Female Short Blue Hair"
+      "value": "Short Blue Hair"
     },
     {
       "trait_type": "Mouth",
@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -56,12 +56,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",

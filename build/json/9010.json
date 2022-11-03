@@ -8,31 +8,31 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_RedPink"
+      "value": "RedPink"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentHolo"
+      "value": "Holo"
     },
     {
       "trait_type": "Body",
-      "value": "Body Blue Female"
+      "value": "Body Blue "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear White"
+      "value": "Underwear White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Purple Female Vest"
+      "value": "Purple Vest"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Brown"
+      "value": "Chibi Eyes Brown"
     },
     {
       "trait_type": "Hair",
-      "value": "Female Yellow Long Messy Hair"
+      "value": "Yellow Long Messy Hair"
     },
     {
       "trait_type": "Mouth",
@@ -41,17 +41,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",
@@ -61,12 +61,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 16
+      "value": 76
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

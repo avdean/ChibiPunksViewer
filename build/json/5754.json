@@ -8,15 +8,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_Lime"
+      "value": "Lime"
     },
     {
       "trait_type": "Background Accent",
-      "value": "BackgroundAccentSpiral"
+      "value": "Spiral"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Male"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Clothes",
@@ -37,12 +37,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -52,7 +52,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
@@ -62,7 +62,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 19
+      "value": 79
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

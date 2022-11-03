@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsPink"
+      "value": "Frogwells Pink"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentBinary"
+      "value": "Binary"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Yellow"
+      "value": "Underwear Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Red T Shirt"
+      "value": "Red T Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -51,12 +51,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",

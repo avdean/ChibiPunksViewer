@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_DarkBlue"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentCode"
+      "value": "Code"
     },
     {
       "trait_type": "Body",
-      "value": "Body Purple Female"
+      "value": "Body Purple "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Red"
+      "value": "Underwear Wrap Red"
     },
     {
       "trait_type": "Clothes",
-      "value": "Red Female Tank Top"
+      "value": "Red Tank Top"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Red Female Mohawk Hair"
+      "value": "Red Mohawk Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -45,17 +45,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",

@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_Lime"
+      "value": "Lime"
     },
     {
       "trait_type": "Body",
-      "value": "Body Green Male"
+      "value": "Body Green "
     },
     {
       "trait_type": "Clothes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Male Eyes Green"
+      "value": "Chibi  Eyes Green"
     },
     {
       "trait_type": "Hair",
@@ -33,7 +33,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",
@@ -43,7 +43,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -53,7 +53,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",

@@ -8,35 +8,35 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsPink"
+      "value": "Frogwells Pink"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentStars"
+      "value": "Stars"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Female"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap White"
+      "value": "Underwear Wrap White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Green Female Tank Top"
+      "value": "Green Tank Top"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open Yellow Jacket"
+      "value": "Open Yellow Jacket"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Dark Blue"
+      "value": "Chibi Eyes Dark Blue"
     },
     {
       "trait_type": "Hair",
-      "value": "Female Messy Bright Pink Long Hair"
+      "value": "Messy Bright Pink Long Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -49,17 +49,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 12
+      "value": 72
     },
     {
       "display_type": "boost_number",
@@ -69,7 +69,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",

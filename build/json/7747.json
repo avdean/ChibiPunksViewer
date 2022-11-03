@@ -8,11 +8,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_BrightGreen"
+      "value": "BrightGreen"
     },
     {
       "trait_type": "Body",
-      "value": "Body Grey Male"
+      "value": "Body Grey "
     },
     {
       "trait_type": "Clothes",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Male Eyes Brown"
+      "value": "Chibi  Eyes Brown"
     },
     {
       "trait_type": "Hair",
@@ -38,22 +38,22 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",

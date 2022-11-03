@@ -8,27 +8,27 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsRibbons"
+      "value": "Frogwells Ribbons"
     },
     {
       "trait_type": "Body",
-      "value": "Body Black Female"
+      "value": "Body Black "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Yellow"
+      "value": "Underwear Wrap Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Red Female Vest"
+      "value": "Red Vest"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Pink"
+      "value": "Chibi Eyes Pink"
     },
     {
       "trait_type": "Hair",
-      "value": "Orange Female Mohawk Hair"
+      "value": "Orange Mohawk Hair"
     },
     {
       "trait_type": "Mouth",
@@ -37,7 +37,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -57,7 +57,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",

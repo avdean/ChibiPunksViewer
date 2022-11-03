@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_LimeYellow"
+      "value": "LimeYellow"
     },
     {
       "trait_type": "Body",
-      "value": "Body Dusky Female"
+      "value": "Body Dusky "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Pink"
+      "value": "Underwear Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Black Jacket Closed"
+      "value": "Black Jacket Closed"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open White Jacket"
+      "value": "Open White Jacket"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Red Female Mohawk Hair"
+      "value": "Red Mohawk Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -50,7 +50,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",

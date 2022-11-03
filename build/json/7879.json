@@ -8,27 +8,27 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsPaints"
+      "value": "Frogwells Paints"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentBinary"
+      "value": "Binary"
     },
     {
       "trait_type": "Body",
-      "value": "Body White Female"
+      "value": "Body White "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear White"
+      "value": "Underwear White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Black Female Vest"
+      "value": "Black Vest"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open Red Jacket"
+      "value": "Open Red Jacket"
     },
     {
       "trait_type": "Eyes",
@@ -36,7 +36,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Female White Hood and Red Hair"
+      "value": "White Hood and Red Hair"
     },
     {
       "trait_type": "Mouth",
@@ -50,12 +50,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 13
+      "value": 73
     },
     {
       "display_type": "boost_number",
@@ -70,7 +70,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 14
+      "value": 74
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

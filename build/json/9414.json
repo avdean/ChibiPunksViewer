@@ -8,27 +8,27 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_BrightGreen"
+      "value": "BrightGreen"
     },
     {
       "trait_type": "Body",
-      "value": "Body Dusky Female"
+      "value": "Body Dusky "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Yellow"
+      "value": "Underwear Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female White T Shirt"
+      "value": "White T Shirt"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Light Blue"
+      "value": "Chibi Eyes Light Blue"
     },
     {
       "trait_type": "Hair",
-      "value": "Blue Female Mohawk Hair"
+      "value": "Blue Mohawk Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -46,17 +46,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 14
+      "value": 74
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",

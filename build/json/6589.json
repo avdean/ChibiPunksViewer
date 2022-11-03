@@ -8,35 +8,35 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_Red"
+      "value": "Red"
     },
     {
       "trait_type": "Background Accents",
-      "value": "BackgroundAccentSpiral"
+      "value": "Spiral"
     },
     {
       "trait_type": "Body",
-      "value": "Body Black Female"
+      "value": "Body Black "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear White"
+      "value": "Underwear White"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Black T Shirt"
+      "value": "Black T Shirt"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open White Jacket"
+      "value": "Open White Jacket"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Green"
+      "value": "Chibi Eyes Green"
     },
     {
       "trait_type": "Hair",
-      "value": "Red Female Mohawk Hair"
+      "value": "Red Mohawk Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -54,7 +54,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
@@ -64,7 +64,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
@@ -74,7 +74,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 0
+      "value": 7
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

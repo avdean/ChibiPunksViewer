@@ -12,23 +12,23 @@
     },
     {
       "trait_type": "Body",
-      "value": "Body White Female"
+      "value": "Body White "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Blue"
+      "value": "Underwear Blue"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Red T Shirt"
+      "value": "Red T Shirt"
     },
     {
       "trait_type": "Eyes",
-      "value": "Puppy Female Eyes"
+      "value": "Puppy Eyes"
     },
     {
       "trait_type": "Hair",
-      "value": "Orange Female Mohawk Hair"
+      "value": "Orange Mohawk Hair"
     },
     {
       "trait_type": "Mouth",
@@ -42,7 +42,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
@@ -52,17 +52,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 17
+      "value": 77
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 16
+      "value": 76
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 10
+      "value": 70
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

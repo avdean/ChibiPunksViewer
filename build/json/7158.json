@@ -8,27 +8,27 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Background_YellowOrange"
+      "value": "YellowOrange"
     },
     {
       "trait_type": "Body",
-      "value": "Body Grey Female"
+      "value": "Body Grey "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Yellow"
+      "value": "Underwear Wrap Yellow"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female White Jumper"
+      "value": "White Jumper"
     },
     {
       "trait_type": "Eyes",
-      "value": "Chibi Female Eyes Dark Blue"
+      "value": "Chibi Eyes Dark Blue"
     },
     {
       "trait_type": "Hair",
-      "value": "Female Blue Yellow Two Tone Hair"
+      "value": "Blue Yellow Two Tone Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -46,7 +46,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 1
+      "value": 7
     },
     {
       "display_type": "boost_number",
@@ -56,12 +56,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 15
+      "value": 75
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",

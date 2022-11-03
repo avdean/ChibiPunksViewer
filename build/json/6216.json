@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "FrogwellsPolaroid"
+      "value": "Frogwells Polaroid"
     },
     {
       "trait_type": "Body",
-      "value": "Body Purple Female"
+      "value": "Body Purple "
     },
     {
       "trait_type": "Underwear",
-      "value": "Female Underwear Wrap Pink"
+      "value": "Underwear Wrap Pink"
     },
     {
       "trait_type": "Clothes",
-      "value": "Female Yellow Jumper"
+      "value": "Yellow Jumper"
     },
     {
       "trait_type": "Coat",
-      "value": "Female Open White Jacket"
+      "value": "Open White Jacket"
     },
     {
       "trait_type": "Eyes",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Cyan Female Mohawk Hair"
+      "value": "Cyan Mohawk Hair"
     },
     {
       "trait_type": "Mouth",
@@ -56,17 +56,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 19
+      "value": 79
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 13
+      "value": 73
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
