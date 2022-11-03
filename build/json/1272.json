@@ -8,15 +8,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_Yellow"
+      "value": "Yellow"
     },
     {
       "trait_type": "Body",
-      "value": "Body Tanned Male"
+      "value": "Body Tanned "
     },
     {
       "trait_type": "Clothes",
-      "value": "Male Pink Shirt"
+      "value": " Pink Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Male Messy Black Hair"
+      "value": " Messy Black Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -42,7 +42,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 18
+      "value": 78
     },
     {
       "display_type": "boost_number",
@@ -52,7 +52,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",

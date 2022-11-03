@@ -8,15 +8,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_YellowOrange"
+      "value": "YellowOrange"
     },
     {
       "trait_type": "Body",
-      "value": "Body White Male"
+      "value": "Body White "
     },
     {
       "trait_type": "Clothes",
-      "value": "Male Yellow T Shirt"
+      "value": " Yellow T Shirt"
     },
     {
       "trait_type": "Eyes",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Male Red Hood and Red Hair"
+      "value": " Red Hood and Red Hair"
     },
     {
       "trait_type": "Pet / Sticker",
@@ -42,12 +42,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 11
+      "value": 71
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",

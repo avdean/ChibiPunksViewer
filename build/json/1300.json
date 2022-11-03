@@ -8,15 +8,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Background_Pink"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Body Purple Male"
+      "value": "Body Purple "
     },
     {
       "trait_type": "Clothes",
-      "value": "Male Red Jumper"
+      "value": " Red Jumper"
     },
     {
       "trait_type": "Eyes",
@@ -24,7 +24,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Male Black Hood and Red Hair"
+      "value": " Black Hood and Red Hair"
     },
     {
       "trait_type": "Mouth",
@@ -43,12 +43,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 0
+      "value": 7
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 10
+      "value": 70
     },
     {
       "display_type": "boost_number",
@@ -58,7 +58,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 1
+      "value": 7
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
