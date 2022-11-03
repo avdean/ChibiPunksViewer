@@ -7,7 +7,7 @@
   "date": 1666960243670,
   "attributes": [
     {
-      "trait_type": "Backgrounds",
+      "trait_type": "Background",
       "value": "Red"
     },
     {
@@ -45,7 +45,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",

@@ -7,7 +7,7 @@
   "date": 1666960461092,
   "attributes": [
     {
-      "trait_type": "Backgrounds",
+      "trait_type": "Background",
       "value": "LimeYellow"
     },
     {
@@ -69,7 +69,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",

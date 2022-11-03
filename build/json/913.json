@@ -7,7 +7,7 @@
   "date": 1666959904300,
   "attributes": [
     {
-      "trait_type": "Backgrounds",
+      "trait_type": "Background",
       "value": "Frogwells Ribbons"
     },
     {
@@ -61,7 +61,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",

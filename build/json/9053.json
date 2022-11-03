@@ -7,7 +7,7 @@
   "date": 1666960741918,
   "attributes": [
     {
-      "trait_type": "Backgrounds",
+      "trait_type": "Background",
       "value": "Blue"
     },
     {
@@ -70,7 +70,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 70
+      "value": 10
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
