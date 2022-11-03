@@ -42,12 +42,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 79
+      "value": 19
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 74
+      "value": 14
     },
     {
       "display_type": "boost_number",
@@ -57,12 +57,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 77
+      "value": 17
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 72
+      "value": 12
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

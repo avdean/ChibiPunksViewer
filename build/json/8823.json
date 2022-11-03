@@ -11,7 +11,7 @@
       "value": "BrightGreen"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Circles"
     },
     {
@@ -45,12 +45,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 74
+      "value": 14
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 74
+      "value": 14
     },
     {
       "display_type": "boost_number",
@@ -60,12 +60,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",

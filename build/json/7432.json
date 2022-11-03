@@ -11,7 +11,7 @@
       "value": "Blue"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Code"
     },
     {
@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 77
+      "value": 17
     },
     {
       "display_type": "boost_number",
@@ -56,17 +56,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 73
+      "value": 13
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 72
+      "value": 12
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 77
+      "value": 17
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

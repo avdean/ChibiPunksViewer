@@ -37,17 +37,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 76
+      "value": 16
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 77
+      "value": 17
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 77
+      "value": 17
     },
     {
       "display_type": "boost_number",
@@ -57,7 +57,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 77
+      "value": 17
     },
     {
       "display_type": "boost_number",

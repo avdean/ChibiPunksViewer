@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 78
+      "value": 18
     },
     {
       "display_type": "boost_number",
@@ -51,12 +51,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 73
+      "value": 13
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",

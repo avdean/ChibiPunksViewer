@@ -11,7 +11,7 @@
       "value": "LimeYellow"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Circles"
     },
     {
@@ -56,12 +56,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 77
+      "value": 17
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 77
+      "value": 17
     },
     {
       "display_type": "boost_number",

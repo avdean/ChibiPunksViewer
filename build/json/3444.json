@@ -11,7 +11,7 @@
       "value": "YellowOrange"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Hearts"
     },
     {
@@ -66,7 +66,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 77
+      "value": 17
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

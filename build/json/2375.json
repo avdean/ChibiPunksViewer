@@ -11,7 +11,7 @@
       "value": "Red"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Frogwells Swirls"
     },
     {
@@ -41,7 +41,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 79
+      "value": 19
     },
     {
       "display_type": "boost_number",
@@ -66,7 +66,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 78
+      "value": 18
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

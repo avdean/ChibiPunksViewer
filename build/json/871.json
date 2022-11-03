@@ -11,7 +11,7 @@
       "value": "Frogwells Purple Fade"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Code"
     },
     {
@@ -55,7 +55,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 72
+      "value": 12
     },
     {
       "display_type": "boost_number",

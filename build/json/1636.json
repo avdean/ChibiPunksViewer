@@ -11,7 +11,7 @@
       "value": "LimeYellow"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Code"
     },
     {
@@ -74,7 +74,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 79
+      "value": 19
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

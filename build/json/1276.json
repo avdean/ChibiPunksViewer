@@ -11,7 +11,7 @@
       "value": "Red"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Code"
     },
     {
@@ -41,17 +41,17 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 73
+      "value": 13
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 73
+      "value": 13
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",

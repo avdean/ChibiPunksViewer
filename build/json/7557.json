@@ -11,7 +11,7 @@
       "value": "Red"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Circles"
     },
     {
@@ -49,7 +49,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 74
+      "value": 14
     },
     {
       "display_type": "boost_number",
@@ -59,7 +59,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 71
+      "value": 11
     },
     {
       "display_type": "boost_number",
@@ -69,7 +69,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 71
+      "value": 11
     },
     {
       "display_type": "boost_number",

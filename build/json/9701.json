@@ -11,7 +11,7 @@
       "value": "BlueGreen"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Holo"
     },
     {
@@ -45,7 +45,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",

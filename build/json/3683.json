@@ -11,7 +11,7 @@
       "value": "Yellow"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Binary"
     },
     {
@@ -46,22 +46,22 @@
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 79
+      "value": 19
     },
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 73
+      "value": 13
     },
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 76
+      "value": 16
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 78
+      "value": 18
     },
     {
       "display_type": "boost_number",

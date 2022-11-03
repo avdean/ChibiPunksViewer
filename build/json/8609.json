@@ -11,7 +11,7 @@
       "value": "FrogwellsBokeh"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Spiral"
     },
     {
@@ -49,7 +49,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 74
+      "value": 14
     },
     {
       "display_type": "boost_number",
@@ -59,7 +59,7 @@
     {
       "display_type": "boost_number",
       "trait_type": "Dexterity",
-      "value": 74
+      "value": 14
     },
     {
       "display_type": "boost_number",
@@ -69,12 +69,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",
       "trait_type": "Charisma",
-      "value": 77
+      "value": 17
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

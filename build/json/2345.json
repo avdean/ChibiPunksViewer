@@ -11,7 +11,7 @@
       "value": "Yellow"
     },
     {
-      "trait_type": "Background Accents",
+      "trait_type": "Background Accent",
       "value": "Doodle"
     },
     {
@@ -45,12 +45,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Strength",
-      "value": 76
+      "value": 16
     },
     {
       "display_type": "boost_number",
       "trait_type": "Constitution",
-      "value": 77
+      "value": 17
     },
     {
       "display_type": "boost_number",
@@ -60,12 +60,12 @@
     {
       "display_type": "boost_number",
       "trait_type": "Intelligence",
-      "value": 70
+      "value": 10
     },
     {
       "display_type": "boost_number",
       "trait_type": "Wisdom",
-      "value": 71
+      "value": 11
     },
     {
       "display_type": "boost_number",
